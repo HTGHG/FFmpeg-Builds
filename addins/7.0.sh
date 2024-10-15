@@ -1,2 +1,2 @@
 #!/bin/bash
-GIT_BRANCH="n7.0.2"
+GIT_BRANCH="v7.0.2"
